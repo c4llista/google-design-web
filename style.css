@@ -1,0 +1,310 @@
+/* CSS files add styling rules to your content */
+{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+text-decoration: none;
+}
+
+body {
+  font-family: google;
+  margin: 2em;
+}
+
+.section-1 {
+  flex: 1;
+}
+
+.h1 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  padding: 5px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 14px;
+}
+
+nav a {
+  font-family: helvetica;
+  font-size: 20px;
+  display: inline-block;
+  line-height: 12px;
+  font-weight: 400;
+  color: grey;
+  cursor: pointer;
+  padding: 40px;
+  padding-top: 5px;
+  text-decoration: none;
+}
+
+.section2 {
+  flex: 1;
+}
+
+.div1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.div1 img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.section2 {
+  flex: 1;
+}
+
+.h2 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: left;
+  font-size: 40px;
+  padding-top: 20px;
+}
+
+.h3 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: left;
+  font-size: 22px;
+  padding-top: 20px;
+}
+
+.p1 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: left;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.p2 {
+  font-style: bold, serif;
+  color: grey;
+  display: flex;
+  justify-content: left;
+  font-size: 15px;
+}
+
+.section3 {
+  flex: 1;
+  float: left;
+  width: 50%;
+}
+
+.div2 {
+  width: 50%;
+  justify-content: left;
+}
+
+.h4 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: left;
+  font-size: 23px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.p3 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: left;
+  font-size: 12px;
+  padding-top: 20px;
+}
+
+.h5 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: left;
+  font-size: 23px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.div2 img {
+ display: block;
+  margin-left: left;
+  width: 50%;
+}
+
+.div3 {
+  width: 50%;
+  justify-content: left;
+  float: left;
+}
+
+.p4 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: left;
+  font-size: 15px;
+  padding-top: 20px;
+  line-height: 1.6;
+}
+
+.div4 {
+  width: 50%;
+  justify-content: left;
+  float: right;
+}
+
+.p5 {
+  font-style: bold;
+  font-family: helvetica;
+  color: blue;
+  display: flex;
+  justify-content: right;
+  font-size: 12px;
+  text-align: right;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.p6 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: right;
+  font-size: 12px;
+  padding-top: 20px;
+}
+
+.h6 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: right;
+  font-size: 23px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.p7 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: right;
+  font-size: 15px;
+  padding-top: 10px;
+  line-height: 1.6;
+}
+
+.p8 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: right;
+  font-size: 12px;
+  padding-top: 20px;
+}
+
+.h7 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: right;
+  font-size: 23px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.p9 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: right;
+  font-size: 15px;
+  padding-top: 10px;
+  line-height: 1.6;
+}
+
+
+.p10 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: right;
+  font-size: 12px;
+  padding-top: 20px;
+}
+
+.h8 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: right;
+  font-size: 23px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.p11 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  display: flex;
+  justify-content: right;
+  font-size: 15px;
+  padding-top: 10px;
+  line-height: 1.6;
+}
+
+.p12 {
+  font-style: bold;
+  font-family: helvetica;
+  color: black;
+  display: flex;
+  justify-content: right;
+  font-size: 15px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  line-height: 1.6;
+}
+
+.p13 {
+  font-style: bold;
+  font-family: helvetica;
+  text-decoration: underline;
+  color: blue;
+  display: flex;
+  justify-content: right;
+  font-size: 15px;
+  padding-top: 5px;
+  line-height: 1.6;
+}

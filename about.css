@@ -1,0 +1,38 @@
+{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+text-decoration: none;
+}
+
+body {
+  font-family: google;
+  margin: 2em;
+}
+
+.h1 {
+  font-style: bold;
+  font-family: helvetica;
+  color: grey;
+  text-align: left;
+  font-size: 30px;
+  padding: 5px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+nav a {
+  font-family: helvetica;
+  font-size: 15px;
+  display: inline-block;
+  line-height: 12px;
+  font-weight: 400;
+  color: grey;
+  cursor: pointer;
+  padding: 25px;
+  padding-top: 0px;
+}
